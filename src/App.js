@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Staging, testando
+          Staging, testando...
         </a>
       </header>
     </div>
